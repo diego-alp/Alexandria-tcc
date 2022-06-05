@@ -39,13 +39,10 @@ header('Location: login.php');
 	<meta http-equiv="X-UA-compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="TCC-CSS\style(cadastro-usuario).css">
-	<title>Formulario | GM</title>
+	<title>Formulario </title>
 	<body  >
 
 	</body>
-<style>
-	
-</style>
 
 </head>
 <body>
@@ -107,9 +104,9 @@ header('Location: login.php');
 			 <input type="submit" name="submit" id="submit">
 			<br><br>
 			<a href="home.php">Voltar</a>
-		</fieldset>
-	</form>
-	
-</div>
-</body>
+		</fieldset> 
+	</form> 
+	 
+</div> 
+</body> 
 </html>
