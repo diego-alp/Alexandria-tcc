@@ -27,23 +27,23 @@
 
 <nav class="w3-sidebar w3-bar-block w3-blue w3-center " style="word-wrap: break-word; width: 12%; overflow: hidden;">
     
-	<a href="" class="w3-bar-item w3-button w3-block n w3-cell w3-hover-light-grey w3-hover-text-cyan w3-text-light-grey">
+	<a href="formulario.php" class="w3-bar-item w3-button w3-block n w3-cell w3-hover-light-grey w3-hover-text-cyan w3-text-light-grey">
 	<i class="fa fa-address-book w3-xxxlarge" aria-hidden="true"></i>
         <p class="w3-large">Cadastro Usuarios</p>
     </a>	
 
-	<a href="" class="w3-bar-item w3-button w3-block n w3-cell w3-hover-light-grey w3-hover-text-cyan w3-text-light-grey">
+	<a href="bibliotecario.php" class="w3-bar-item w3-button w3-block n w3-cell w3-hover-light-grey w3-hover-text-cyan w3-text-light-grey">
 	<i class="fa fa-briefcase w3-xxxlarge" aria-hidden="true"></i>
         <p class="w3-large">Cadastro funcionarios</p>
     </a>
 
-	<a href="" class="w3-bar-item w3-button w3-block n w3-cell w3-hover-light-grey w3-hover-text-cyan w3-text-light-grey">
+	<a href="ReservaLivros.php" class="w3-bar-item w3-button w3-block n w3-cell w3-hover-light-grey w3-hover-text-cyan w3-text-light-grey">
 	<i class="fa fa-book w3-xxxlarge" aria-hidden="true"></i>
         <p class="w3-large">Reservar livros</p>
     </a>
 
 
-	<a href="" class="w3-bar-item w3-button w3-block n w3-cell w3-hover-light-grey w3-hover-text-cyan w3-text-light-grey">
+	<a href="cadastro_livros.php" class="w3-bar-item w3-button w3-block n w3-cell w3-hover-light-grey w3-hover-text-cyan w3-text-light-grey">
 	<i class="fa fa-bookmark w3-xxxlarge" aria-hidden="true"></i>
         <p class="w3-large">Cadastrar livros</p>
     </a>
